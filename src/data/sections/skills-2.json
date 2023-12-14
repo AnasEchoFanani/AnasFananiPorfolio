@@ -1,0 +1,37 @@
+{
+    "title": "Full Stack Development",
+    "items": [
+        {
+            "label": "Spring Boot",
+            "value": "95"
+        },
+        {
+            "label": "React",
+            "value": "90"
+        },
+        {
+            "label": "Bootstrap",
+            "value": "85"
+        },
+        {
+            "label": "Tailwind CSS",
+            "value": "80"
+        },
+        {
+            "label": "Figma",
+            "value": "60"
+        },
+        {
+            "label": "Adobe XD",
+            "value": "60"
+        },
+        {
+            "label": "HTML",
+            "value": "100"
+        },
+        {
+            "label": "CSS",
+            "value": "50"
+        }
+    ]
+}

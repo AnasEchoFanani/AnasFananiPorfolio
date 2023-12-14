@@ -1,0 +1,23 @@
+{
+    "title": "Services",
+    "items": [
+        {
+            "title": "Full-Stack Development",
+            "icon": "/img/icons/1.svg",
+            "text": "Enhance your online presence with robust, user-friendly applications and seamless digital experiences.",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Database Management",
+            "icon": "/img/icons/2.svg",
+            "text": "Optimize data organization and retrieval for efficient system performance and reliability.",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "API Integration",
+            "icon": "/img/icons/3.svg",
+            "text": "Create cohesive systems that communicate seamlessly, ensuring a unified and responsive user experience.",
+            "link": "/services/service-3"
+        }
+    ]
+}
