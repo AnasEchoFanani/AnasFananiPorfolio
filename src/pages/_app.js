@@ -16,6 +16,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
           {/* seo begin */}
           <title>{appData.settings.siteName}</title>
+          <link rel="icon" href="/img/person/image.png" type="image/gif" sizes="16x16"></link>
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
           {/* seo end */}        
       </Head>

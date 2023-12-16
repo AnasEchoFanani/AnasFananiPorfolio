@@ -2,6 +2,7 @@ import PageBanner from "@/src/components/PageBanner";
 import Layouts from "@/src/layouts/Layouts";
 import { Formik } from 'formik';
 import appData from "@data/app.json";
+import { redirect } from "next/dist/server/api-utils";
 
 const Contact = () => {
   return (
@@ -16,11 +17,11 @@ const Contact = () => {
             <ul className="mil-puplication-details mil-up mil-mb-90">
                 <li>
                     <span className="mil-upper mil-accent">Call: </span>&nbsp;&nbsp;
-                    <span className="mil-upper mil-dark">+27(034)765 64 X5</span>
+                    <span className="mil-upper mil-dark">+212 631 003 454</span>
                 </li>
                 <li>
                     <span className="mil-upper mil-accent">Write: </span>&nbsp;&nbsp;
-                    <span className="mil-upper mil-dark">miller.themes@gmail.com</span>
+                    <span className="mil-upper mil-dark">anas.fanani.pro@gmail.com</span>
                 </li>
             </ul>
         </div>
@@ -28,10 +29,10 @@ const Contact = () => {
         {/* map */}
         <div className="mil-map mil-mb-90">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1396.5769090312324!2d-73.6519672!3d45.5673453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91f8abc30e0ff%3A0xfc6d9cbb49022e9c!2sManoir%20Saint-Joseph!5e0!3m2!1sen!2sua!4v1685485811069!5m2!1sen!2sua" 
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1175.1227573335257!2d-7.634842284744173!3d33.5858635598048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDM1JzA4LjMiTiA3wrAzOCcwMi40Ilc!5e0!3m2!1sfr!2sma!4v1702741559173!5m2!1sfr!2sma" 
               style={{"border": "0"}} 
               allowFullScreen 
-              loading="lazy" 
+              loading="lazy"
               referrerPolicy="no-referrer-when-downgrade" 
             />
         </div>
@@ -76,6 +77,7 @@ const Contact = () => {
                     if (response.ok) {
                         status.innerHTML = "Thanks for your submission!";
                         form.reset()
+                        window.location.href = '/'
                     } else {
                         response.json().then(data => {
                             if (Object.hasOwn(data, 'errors')) {

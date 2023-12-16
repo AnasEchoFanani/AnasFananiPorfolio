@@ -9,7 +9,7 @@
     },
     "header": {
         "logo": {
-            "symbol": "C",
+            "symbol": "F",
             "link": "/"
         },
         "button": {
@@ -24,85 +24,22 @@
             {
                 "label": "Projects",
                 "link": "/projects",
-                "children": [
-                    {
-                        "label": "Projects list",
-                        "link": "/projects"
-                    },
-                    {
-                        "label": "Projects 2 column list",
-                        "link": "/projects-2"
-                    },
-                    {
-                        "label": "Full width list",
-                        "link": "/projects-3"
-                    },
-                    {
-                        "label": "Full width simple list",
-                        "link": "/projects-4"
-                    },
-                    {
-                        "label": "Carousel",
-                        "link": "/projects-5"
-                    },
-                    {
-                        "label": "Single Project",
-                        "link": "/projects/project-1"
-                    },
-                    {
-                        "label": "Full width Single Project",
-                        "link": "/projects/project-2"
-                    }
-                ]
+                "children": 0
             },
             {
                 "label": "Blog",
                 "link": "/blog",
-                "children": [
-                    {
-                        "label": "Blog list",
-                        "link": "/blog"
-                    },
-                    {
-                        "label": "Full width list",
-                        "link": "/blog-2"
-                    },
-                    {
-                        "label": "Publication",
-                        "link": "/blog/play-to-your-strength-and-supercharge-your-business-4"
-                    },
-                    {
-                        "label": "Full width Publication",
-                        "link": "/blog/5-steps-to-create-marketing-plan-4"
-                    }
-                ]
-            },
-            {
-                "label": "Contact",
-                "link": "/contact",
                 "children": 0
             },
             {
-                "label": "Other",
+                "label": "Services",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "Story timeline",
                 "link": "/story",
-                "children": [
-                    {
-                        "label": "Story timeline",
-                        "link": "/story"
-                    },
-                    {
-                        "label": "Services",
-                        "link": "/services"
-                    },
-                    {
-                        "label": "Single Service",
-                        "link": "/services/service-1"
-                    },
-                    {
-                        "label": "404",
-                        "link": "/404"
-                    }
-                ]
+                "children": 0
             }
         ]
     },
@@ -112,19 +49,19 @@
     },
     "social": [
         {
-            "link": "https://behance.net",
-            "icon": "fab fa-behance",
-            "title": "Behance"
+            "link": "https://wa.me/212639300105",
+            "icon": "fab fa-whatsapp",
+            "title": "Whatsapp"
         },
         {
-            "link": "https://dribbble.com",
-            "icon": "fab fa-dribbble",
-            "title": "Dribbble"
+            "link": "https://www.instagram.com/_echo_theonly/",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
         },
         {
-            "link": "https://twitter.com",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
+            "link": "https://www.linkedin.com/in/anas-fanani-14b452263",
+            "icon": "fab fa-linkedin",
+            "title": "Linkedin"
         },
         {
             "link": "https://github.com/AnasEchoFanani",

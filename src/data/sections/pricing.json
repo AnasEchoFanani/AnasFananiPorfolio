@@ -1,69 +1,69 @@
 {
-    "title": "Price",
+    "title": "Pricing",
     "items": [
         {
-            "name": "Hourly payment",
+            "name": "Hourly Consultation",
             "price": {
-                "value": "$17",
-                "after": "/ho"
+                "value": "$50",
+                "after": "/hour"
             },
             "list": [
                 {
                     "active": 1,
-                    "value": "Dolorum sed doloribus"
+                    "value": "In-depth project analysis"
                 },
                 {
                     "active": 1,
-                    "value": "Consectetur adipisicing elit"
+                    "value": "Code review and optimization"
                 },
                 {
                     "active": 1,
-                    "value": "Maxime libero"
+                    "value": "Technical support"
                 },
                 {
                     "active": 0,
-                    "value": "Atque esse odit"
+                    "value": "Custom feature development"
                 },
                 {
                     "active": 0,
-                    "value": "Laboriosam corporis"
+                    "value": "Performance tuning"
                 }
             ],
             "button": {
-                "label": "Visit website",
+                "label": "Get Started",
                 "link": "/contact"
             }
         },
         {
-            "name": "Monthly payment",
+            "name": "Project-Based Development",
             "price": {
-                "value": "$2900",
-                "after": "/mo"
+                "value": "Custom Quote",
+                "after": "/project"
             },
             "list": [
                 {
                     "active": 1,
-                    "value": "Dolorum sed doloribus"
+                    "value": "End-to-end development"
                 },
                 {
                     "active": 1,
-                    "value": "Consectetur adipisicing elit"
+                    "value": "Collaborative project planning"
                 },
                 {
                     "active": 1,
-                    "value": "Maxime libero"
+                    "value": "Agile development methodology"
                 },
                 {
                     "active": 1,
-                    "value": "Atque esse odit"
+                    "value": "Quality assurance and testing"
                 },
                 {
                     "active": 1,
-                    "value": "Laboriosam corporis"
+                    "value": "Post-launch support"
                 }
             ],
             "button": {
-                "label": "Visit website",
+                "label": "Discuss Your Project",
                 "link": "/contact"
             }
         }

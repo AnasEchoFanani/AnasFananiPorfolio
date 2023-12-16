@@ -8,9 +8,10 @@ import Layouts from "@layouts/Layouts";
 
 import { getPaginatedPostsData } from "@library/posts";
 
-const Blog = ( { posts, totalPosts, currentPage } ) => {
+const Blog2 = ( { posts, totalPosts, currentPage } ) => {
   return (
     <Layouts
+      fullWidth
       rightPanelBackground={"/img/person/bg-2.jpg"}
       rightPanelImg={"/img/person/1.png"}
     >
@@ -38,7 +39,7 @@ const Blog = ( { posts, totalPosts, currentPage } ) => {
     </Layouts>
   );
 };
-export default Blog;
+export default Blog2;
 
 export async function getStaticProps() {
   const { posts, total } = getPaginatedPostsData( PER_PAGE, 1 );

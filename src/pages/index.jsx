@@ -11,6 +11,8 @@ import SkillsOneSection from "@components/sections/SkillsOne";
 import SkillsTwoSection from "@components/sections/SkillsTwo";
 import LatestPostsSection from "@components/sections/LatestPosts";
 import CallToActionSection from "@components/sections/CallToAction";
+import PricingSection from "../components/sections/Pricing";
+import SubscribeSection from "../components/sections/Subscribe";
 
 const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 

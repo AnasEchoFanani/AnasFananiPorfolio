@@ -31,7 +31,7 @@ const DefaultHeader = ({ extraClass }) => {
 
         {/* You need to remove the "mil-dot" class if you don't need a dot */}
         <Link href={appData.header.logo.link} className="mil-logo">
-          <span className="mil-dot">{appData.header.logo.symbol}</span>
+          <span>{appData.header.logo.symbol}</span>
         </Link>
 
         <div className={`mil-navigation ${toggle ? "mil-active" : ""}`}>

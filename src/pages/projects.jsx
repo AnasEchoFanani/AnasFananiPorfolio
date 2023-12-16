@@ -9,22 +9,19 @@ import { getSortedProjectsData } from "@library/projects";
 
 import Link from "next/link";
 
-const Projects = (props) => {
+const Projects4 = (props) => {
   return (
-    <Layouts
-      rightPanelBackground={"/img/person/bg-4.jpg"}
-      rightPanelImg={"/img/person/5.png"}
-    >
+    <Layouts fullWidth>
       <PageBanner pageTitle={"Designing a <br>Better World Today"} breadTitle={"Portfolio"} align={"center"} />
 
-      <ProjectsGrid projects={props.projects} columns={1} />
+      <ProjectsGrid projects={props.projects} columns={2} />
       
       <CallToActionSection />
       
     </Layouts>
   );
 };
-export default Projects;
+export default Projects4;
 
 export async function getStaticProps() {
   const allProjects = getSortedProjectsData();
