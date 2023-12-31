@@ -75,8 +75,6 @@ const PostsDetail = ( props ) => {
       {/* publication end */}
 
       <RelatedPostsSection items={props.related} />
-      
-      <SubscribeSection />
     </Layouts>
   );
 };
