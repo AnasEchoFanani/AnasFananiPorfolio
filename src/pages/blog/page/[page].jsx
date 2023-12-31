@@ -36,8 +36,6 @@ const Blog = ( { posts, currentPage, totalPosts } ) => {
           </div>
       </section>
       {/* blog end */}
-
-      <SubscribeSection />
       
     </Layouts>
   );
