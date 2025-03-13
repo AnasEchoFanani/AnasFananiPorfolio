@@ -30,6 +30,9 @@ gallery:
 
     - image: /img/portfolio/acadux/Course-Management.png
       alt: "Course Management"
+            
+    - image: /img/portfolio/acadux/course-watch.png
+      alt: "Watch Course"
 
 description2:
   enabled: 1
@@ -60,7 +63,5 @@ gallery2:
       
     - image: /img/portfolio/acadux/email.png
       alt: "Email"
-      
-    - image: /img/portfolio/acadux/course-watch.png
-      alt: "Watch Course"
+
 ---
