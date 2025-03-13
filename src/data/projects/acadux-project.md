@@ -1,7 +1,7 @@
 ---
 #preview
 title: Acadux
-image: /img/portfolio/acadux/landing-page.png
+image: /img/portfolio/acadux/course-watch.png
 category: Web Development
 
 #full details
