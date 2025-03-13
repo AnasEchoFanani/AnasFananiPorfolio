@@ -15,7 +15,7 @@ const Services = (props) => {
   return (
     <Layouts
     rightPanelBackground={"/img/person/me.jpg"}
-    rightPanelImg={"/img/person/3.png"}
+    rightPanelImg={"/img/person/me.png"}
     >
       <PageBanner pageTitle={"This is what i do best"} align={"center"} />
 
