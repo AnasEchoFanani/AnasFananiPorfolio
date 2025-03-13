@@ -34,8 +34,6 @@ gallery:
     - image: /img/portfolio/carrental/Sign-In.png
       alt: "Sign In Mobile"
 
-    - image: /img/portfolio/carrental/Contract-Step-1.png
-      alt: "Contract Step 1"
 
 description2:
   enabled: 1
@@ -63,4 +61,7 @@ gallery2:
 
     - image: /img/portfolio/carrental/Menu.png
       alt: "Menu"
+      
+    - image: /img/portfolio/carrental/Contract-Step-1.png
+      alt: "Contract Step 1"
 ---
