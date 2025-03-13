@@ -14,8 +14,8 @@ import Link from "next/link";
 const Services = (props) => {
   return (
     <Layouts
-      rightPanelBackground={"/img/person/bg-4.jpg"}
-      rightPanelImg={"/img/person/6.png"}
+    rightPanelBackground={"/img/person/me.jpg"}
+    rightPanelImg={"/img/person/6.png"}
     >
       <PageBanner pageTitle={"This is what i do best"} align={"center"} />
 

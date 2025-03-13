@@ -12,8 +12,8 @@ import Link from "next/link";
 const Projects2 = (props) => {
   return (
     <Layouts
-      rightPanelBackground={"/img/person/bg-4.jpg"}
-      rightPanelImg={"/img/person/5.png"}
+    rightPanelBackground={"/img/person/me.jpg"}
+    rightPanelImg={"/img/person/5.png"}
     >
       <PageBanner pageTitle={"Designing a <br>Better World Today"} breadTitle={"Portfolio"} align={"center"} />
 

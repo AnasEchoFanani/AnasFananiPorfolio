@@ -8,8 +8,8 @@ import CallToActionSection from "@components/sections/CallToAction";
 const Story = (props) => {
   return (
     <Layouts
-      rightPanelBackground={"/img/person/bg-4.jpg"}
-      rightPanelImg={"/img/person/4.png"}
+    rightPanelBackground={"/img/person/me.jpg"}
+    rightPanelImg={"/img/person/4.png"}
     >
       <PageBanner pageTitle={"Success Story"} />
 

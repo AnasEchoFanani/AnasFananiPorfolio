@@ -7,7 +7,7 @@ import { redirect } from "next/dist/server/api-utils";
 const Contact = () => {
   return (
     <Layouts
-      rightPanelBackground={"/img/person/bg-2.jpg"}
+      rightPanelBackground={"/img/person/me.jpg"}
       rightPanelImg={"/img/person/7.png"}
     >
         <PageBanner pageTitle={"Get in touch!"} align={"center"} />

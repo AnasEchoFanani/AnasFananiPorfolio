@@ -10,6 +10,70 @@
             "value": "90"
         },
         {
+            "label": "Angular",
+            "value": "80"
+        },
+        {
+            "label": "GraphQL",
+            "value": "75"
+        },
+        {
+            "label": "MongoDB",
+            "value": "85"
+        },
+        {
+            "label": "PostgreSQL",
+            "value": "80"
+        },
+        {
+            "label": "RabbitMQ",
+            "value": "75"
+        },
+        {
+            "label": "Docker",
+            "value": "85"
+        },
+        {
+            "label": "Gradle",
+            "value": "70"
+        },
+        {
+            "label": "JDBC",
+            "value": "80"
+        },
+        {
+            "label": "Spring Security",
+            "value": "85"
+        },
+        {
+            "label": "JWT",
+            "value": "80"
+        },
+        {
+            "label": "NGINX",
+            "value": "75"
+        },
+        {
+            "label": "Microservices",
+            "value": "85"
+        },
+        {
+            "label": "REST APIs",
+            "value": "95"
+        },
+        {
+            "label": "WebSockets",
+            "value": "75"
+        },
+        {
+            "label": "SMTP & Email Services",
+            "value": "70"
+        },
+        {
+            "label": "Payment Integration",
+            "value": "70"
+        },
+        {
             "label": "Bootstrap",
             "value": "85"
         },
@@ -31,6 +95,30 @@
         },
         {
             "label": "CSS",
+            "value": "65"
+        },
+        {
+            "label": "Linux Server Management",
+            "value": "75"
+        },
+        {
+            "label": "Fedora & Ubuntu",
+            "value": "80"
+        },
+        {
+            "label": "IntelliJ IDEA",
+            "value": "90"
+        },
+        {
+            "label": "NGINX Reverse Proxy",
+            "value": "75"
+        },
+        {
+            "label": "Unit Testing (JUnit, Mockito)",
+            "value": "70"
+        },
+        {
+            "label": "CI/CD (GitHub Actions, Jenkins)",
             "value": "65"
         }
     ]
