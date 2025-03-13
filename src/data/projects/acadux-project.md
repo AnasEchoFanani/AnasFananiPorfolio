@@ -1,7 +1,7 @@
 ---
 #preview
 title: Acadux
-image: /img/portfolio/acadux/dashboard-admin.png
+image: /img/portfolio/acadux/landing-page.png
 category: Web Development
 
 #full details
