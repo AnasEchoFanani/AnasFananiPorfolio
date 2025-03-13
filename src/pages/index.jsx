@@ -19,8 +19,8 @@ const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial
 const Home1 = (props) => {
   return (
     <Layouts
-      rightPanelBackground={"/img/person/me.jpg"}
-      rightPanelImg={"/img/person/me.jpg"}
+    rightPanelBackground={"/img/person/me.jpg"}
+    rightPanelImg={"/img/person/3.png"}
       >
       <HeroOneSection />
       <AboutSection />

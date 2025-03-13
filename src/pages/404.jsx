@@ -6,7 +6,7 @@ const E404 = () => {
     <Layouts 
       noFooter
       rightPanelBackground={"/img/person/me.jpg"}
-      rightPanelImg={"/img/person/me.jpg"}
+      rightPanelImg={"/img/person/3.png"}
     >
       {/* banner */}
       <section className="mil-side-banner mil-center">
