@@ -9,7 +9,6 @@ const Story = (props) => {
   return (
     <Layouts
     rightPanelBackground={"/img/person/me.jpg"}
-    rightPanelImg={"/img/person/4.png"}
     >
       <PageBanner pageTitle={"Success Story"} />
 
