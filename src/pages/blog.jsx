@@ -13,6 +13,7 @@ const Blog2 = ( { posts, totalPosts, currentPage } ) => {
     <Layouts
       fullWidth
       rightPanelBackground={"/img/person/me.jpg"}
+      rightPanelImg={"/img/person/me.jpg"}
     >
       <PageBanner pageTitle={"Exploring the World <br>Through Our Blog"} breadTitle={"Blog"} align={"center"} />
 

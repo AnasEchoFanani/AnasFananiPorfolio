@@ -8,7 +8,8 @@ const Contact = () => {
   return (
     <Layouts
       rightPanelBackground={"/img/person/me.jpg"}
-    >
+      rightPanelImg={"/img/person/me.jpg"}
+      >
         <PageBanner pageTitle={"Get in touch!"} align={"center"} />
       
         {/* info */}

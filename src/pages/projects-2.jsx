@@ -13,6 +13,7 @@ const Projects2 = (props) => {
   return (
     <Layouts
     rightPanelBackground={"/img/person/me.jpg"}
+    rightPanelImg={"/img/person/me.jpg"}
     >
       <PageBanner pageTitle={"Designing a <br>Better World Today"} breadTitle={"Portfolio"} align={"center"} />
 
