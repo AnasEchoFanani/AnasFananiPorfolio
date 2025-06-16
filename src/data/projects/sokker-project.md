@@ -1,7 +1,7 @@
 ---
 #preview
 title: Sokker Project
-image: /img/portfolio/sokker/sokker-login.jpg
+image: /img/portfolio/sokker/SOKKER.png
 category: Web Development
 
 #full details

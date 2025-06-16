@@ -1,7 +1,7 @@
 ---
 #preview
 title: Car Rental
-image: /img/portfolio/carrental/dashboard.png
+image: /img/portfolio/carrental/CARRENTAL.png
 category: Web Development
 
 #full details
